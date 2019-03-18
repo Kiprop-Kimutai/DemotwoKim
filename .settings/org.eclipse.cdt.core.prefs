@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.931456722/CWD/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.931456722/CWD/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.931456722/CWD/value=/home/pos/workspace/Demotwo/Debug
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.931456722/PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.931456722/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.931456722/PATH/value=/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/usr/games\:/usr/local/games\:/snap/bin\:/usr/lib/jvm/java-8-oracle/bin\:/usr/lib/jvm/java-8-oracle/db/bin\:/usr/lib/jvm/java-8-oracle/jre/bin
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.931456722/PWD/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.931456722/PWD/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.931456722/PWD/value=/home/pos/workspace/Demotwo/Debug
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.931456722/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.931456722/appendContributed=true
